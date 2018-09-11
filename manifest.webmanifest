@@ -1,10 +1,10 @@
 {
-    "background_color": "purple",
+    "background_color": "blue",
     "description": "chandra khadka is a full-stack web Developer as well as PWA",
     "display": "fullscreen",
     "icons": [
       {
-        "src": "chandrabrt.github.io/img/chandr.jpg",
+        "src": "/chandrabrt.github.io/img/chandr.jpg",
         "sizes": "192x192",
         "type": "image/jpg"
       }
