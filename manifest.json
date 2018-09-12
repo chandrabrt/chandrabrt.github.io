@@ -1,14 +1,13 @@
 
   {
-  "name": "chandra Khadka",
-  "short_name": "Welcome to chandra's world",
+  "name": "Welcome to chandra's world",
+  "short_name": "lot",
   "icons": [{
     "src": "i/mages/icons/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
       "src": "/images/icons/icon-144x144.png",
-      "sizes": "144x144",
       "type": "image/png"
     }, {
       "src": "/images/icons/icon-152x152.png",
